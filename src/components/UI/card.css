@@ -1,0 +1,18 @@
+.card {
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    background-color: white;
+    /* width: 50%; */
+    /* margin: 3rem auto; */
+  }
+  .crd{
+    background-color: rgba(255, 255, 255, 0.178);
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.267);
+    border-radius: 14px;
+    /* background-color: white; */
+    width: 50%;
+    margin: 3rem auto;
+  }
+  
